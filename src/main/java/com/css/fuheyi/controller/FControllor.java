@@ -19,7 +19,7 @@ import java.util.Set;
  * Created by fhy51 on 2018/8/10.e
  */
 @RestController
-@RequestMapping("/hii")
+@RequestMapping("/hiii")
 public class FControllor {
     @Autowired
     private ObjectMapper mapper;
